@@ -1,5 +1,9 @@
 [
   {
+    "version": "v1.0.14",
+    "file": "firmware/can_simul-esp32c3-v1.0.14-merged.bin"
+  },
+  {
     "version": "v1.0.12",
     "file": "firmware/can_simul-esp32c3-v1.0.12-merged.bin"
   },
